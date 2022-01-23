@@ -9,4 +9,6 @@ Profiling of expression of overlapped miRNA in Parkinson's  Disease and  Alzheim
 <b> <br> Hypothesis:</br> </b> 
 Profiling of expression of overlapped miRNA in Parkinson's  Disease and  Alzheimer's Diseases to study disease spectrum overlap to inform the development of personalised medicines.
 
-<br> I have created my own workflow in this analysis.
+<br> I have created my own workflow in this analysis.</br>
+
+Briefly, I used the Cytoscape app, algorithm RWRMTN and miRNet was used in this analysis. The RWRMTN was used in this project for predicting disease-associated microRNA (miRNA) based.  This method was based on a random walk framework, random walk with restart (RWR) algorithm on the miRNA-target interaction network to rank candidate miRNAs. Therefore, this algorithm mimics a walker that moves from a current node in a network. The full mathematical algorithm was explained in this  <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03578-3">article</a>. The results were validated using literature and publically available databases.
