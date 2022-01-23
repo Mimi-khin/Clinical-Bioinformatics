@@ -8,3 +8,5 @@ Profiling of expression of overlapped miRNA in Parkinson's  Disease and  Alzheim
 
 <b> <br> Hypothesis:</br> </b> 
 Profiling of expression of overlapped miRNA in Parkinson's  Disease and  Alzheimer's Diseases to study disease spectrum overlap to inform the development of personalised medicines.
+
+<br> I have created my own workflow in this analysis.
